@@ -1,18 +1,6 @@
 # Tacheon & Smacient — Data & AI Product Engineer Assessment
 
 
-tacheon-assessment/
-├── task-1-scope/
-│   └── solution.md
-├── task-2-pipeline/
-│   ├── main.py
-│   ├── query.sql
-│   ├── requirements.txt
-│   ├── .env
-│   └── .gitignore
-└── README.md
-
-
 # Task 1 — Product Scoping
 
 ## The Problem
@@ -97,12 +85,4 @@ three reasons:
 
 3. It has reliable uptime and clear
    documentation
-
-## Project Structure
-
-task-2-pipeline/
-├── main.py      
-├── query.sql         
-├── requirements.txt  
-├── .env      
-└── .gitignore       
+    
