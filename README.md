@@ -11,7 +11,7 @@ tacheon-assessment/
 │   ├── .env
 │   └── .gitignore
 └── README.md
----
+
 
 # Task 1 — Product Scoping
 
@@ -101,8 +101,8 @@ three reasons:
 ## Project Structure
 
 task-2-pipeline/
-├── main.py       # Main pipeline script
-├── query.sql         # SQL summary queries
-├── requirements.txt  # Python dependencies
-├── .env      # Environment variables template
-└── .gitignore        # Protects secrets from GitHub
+├── main.py      
+├── query.sql         
+├── requirements.txt  
+├── .env      
+└── .gitignore       
